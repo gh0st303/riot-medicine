@@ -1,1 +1,1 @@
-# riote-medicine
+# riot-medicine
